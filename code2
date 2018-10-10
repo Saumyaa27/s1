@@ -1,0 +1,13 @@
+#include<iostream>
+#include<conio.h>
+using namespace std;
+int main(){
+int a,b, result;
+cout<<"simple subtraction";
+cout<<"enter two int";
+cin>>a>>b;
+result=a-b;
+cout<<"result:"<<a<<"-"<<b<<"="<<result;
+getch();
+return 0;
+}
