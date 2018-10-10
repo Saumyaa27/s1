@@ -4,7 +4,7 @@ using namespace std;
 int main(){
 int a,b, result;
 cout<<"simple subtraction";
-cout<<"enter two int";
+cout<<"enter value of int a and b";
 cin>>a>>b;
 result=a-b;
 cout<<"result:"<<a<<"-"<<b<<"="<<result;
